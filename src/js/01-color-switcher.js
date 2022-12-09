@@ -1,6 +1,6 @@
-const startBtn = document.querySelector("data-start");
-const stopBtn = document.querySelector("data-stop");
-const body = document.querySelector("body");
+const startBtn = document.querySelector('data-start');
+const stopBtn = document.querySelector('data-stop');
+const body = document.querySelector('body');
 
 startBut.addEventListener('click', () => {
     id = setInterval(() => {
